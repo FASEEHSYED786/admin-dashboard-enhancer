@@ -1,0 +1,5 @@
+/* Custom styles for the Admin Dashboard Enhancer plugin */
+#ade-widget-content {
+    width: 100%;
+    max-width: 600px;
+}
